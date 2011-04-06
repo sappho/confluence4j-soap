@@ -10,7 +10,7 @@
 
 	<groupId>uk.org.sappho.confluence4j.soap</groupId>
 	<artifactId>confluence4j-soap</artifactId>
-	<version>3.4.3-SNAPSHOT</version>
+	<version>3.4.3</version>
 	<name>Confluence4J SOAP</name>
 	<description>A thin Java layer over the Confluence SOAP service to avoid duplication in many clients</description>
 
